@@ -1,5 +1,5 @@
 <?php
-require_once 'Cuenta.php'
+require_once 'Cuenta.php';
 
 class CuentaCorriente extends Cuenta{
     protected $topeDescubierto;

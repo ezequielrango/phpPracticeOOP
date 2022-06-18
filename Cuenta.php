@@ -1,6 +1,6 @@
 <?php
 
-class Cuenta{
+abstract class Cuenta{
         protected $numero;
         protected $saldo;
         protected $titular;

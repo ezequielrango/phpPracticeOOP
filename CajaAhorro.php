@@ -1,5 +1,5 @@
 <?php
-require_once 'Cuenta.php'
+require_once 'Cuenta.php';
 /* 
 representa Caja de ahorro
 tope de extraccion
